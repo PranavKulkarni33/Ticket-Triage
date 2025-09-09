@@ -1,7 +1,9 @@
 <h1>Ticket Triage (Laravel + Vue)</h1>
 
+<p><b>Functional Test for BeMo.</b></p>
+
 <p>
-    Functional Test for **BeMo**
+
   Tiny helpdesk app. Create tickets, run “classify” (queued job), and see a simple dashboard.
   Dark mode is built-in.
 </p>
